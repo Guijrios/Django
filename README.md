@@ -1,5 +1,7 @@
 # Demo Django - Parte 3: Relacionamento 1:N
 
+Guilherme Jesus Rios Silveira 22.2.4076, BCC 481-Programacao Web
+
 Este repositório contém a entrega da **Parte 3** do roteiro de evolução do projeto `demo-django` para a disciplina de Programação Web. Nesta etapa, foi implementado o relacionamento de banco de dados um-para-muitos (1:N) utilizando o ORM do Django.
 
 * **Novo Modelo `Categoria`:** Criação da tabela de categorias no banco de dados SQLite.
